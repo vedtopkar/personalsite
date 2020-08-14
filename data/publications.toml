@@ -1,3 +1,25 @@
+[anomalous_polyA]
+title = "Anomalous reverse transcription through chemical modifications in polyadenosine stretches."
+authors = "Wipapat Kladwang, <b>Ved V Topkar</b>, Bei Liu, Tracy L Hodges, Sarah C Keane, Hashim Al-Hashimi, Rhiju Das"
+publication_date = "2020-05-14"
+journal = "Journal of the American Chemical Society"
+citation = ""
+link = "https://pubs.acs.org/doi/10.1021/acs.biochem.0c00020"
+doi = "10.1021/acs.biochem.0c00020"
+full_text = "anomalous_polyA"
+supplemental_materials = "anomalous_polyA_supplemental"
+
+[ribosolve]
+title = "Accelerated cryo-EM-guided determination of three-dimensional RNA-only structures."
+authors = "Kalli Kappel, Kaiming Zhang, Zhaoming Su, Wipapat Kladwang, Shanshan Li, Grigore Pintilie, <b>Ved V Topkar</b>, Ramya Rangan, Ivan N Zheludev, Andrew M Watkins, Joseph D Yesselman, Wah Chiu, Rhiju Das"
+publication_date = "2020-07-02"
+journal = "Nature Methods"
+citation = ""
+link = "https://www.nature.com/articles/s41592-020-0878-9"
+doi = "10.1038/s41592-020-0878-9"
+full_text = "ribosolve"
+supplemental_materials = "ribosolve_supplementary"
+
 [epigenetic-redundancy]
 title = "Transcription factors, coregulators, and epigenetic marks are linearly correlated and highly redundant."
 authors = "Tobias Ahsendorf, Franz-Josef Müller, <b>Ved Topkar</b>, Jeremy Gunawardena, Roland Eils"
