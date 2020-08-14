@@ -1,0 +1,11 @@
+<div id="nav-border" class="container">
+  <nav id="nav" class="nav">
+	  <ul class="nav-group">
+  			{{ $currentPage := . }}
+    		{{ range .Site.Menus.main }}
+		  	{{ $text := .Name | safeHTML }}
+		  	<li class="nav-item {{ if eq $currentPage.URL .URL }}active{{ end }}"><a href="{{ .URL }}">{{ $text }}</a></li>
+		  {{ end }}
+  	  </ul>
+  </nav>
+</div>

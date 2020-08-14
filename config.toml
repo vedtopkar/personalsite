@@ -1,0 +1,30 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+
+[params]
+  homeText = "You just made a Hugo blog from scratch."
+  Name = "Ved Topkar"
+  Description = "MD/PhD student, technology enthusiast"
+  
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/"
+    weight = 1
+  # [[menu.main]]
+  #   name = "Archive"
+  #   url = "/archive/"
+  #   weight = 2
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 3
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 4
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 5

@@ -1,0 +1,26 @@
+{{ define "main" }}
+
+{{ .Content }}
+
+{{ range sort $.Site.Data.publications ".publication_date" "desc"}}
+	<div>
+		<span class="publication-title">{{ .title | safeHTML }}</span><br>
+		<span class="publication-authors">{{ .authors | safeHTML}}</span><br>
+		<span class="publication-journal"><a href="http://dx.doi.org/{{ .doi }}">{{ .journal }}</a></span><br>
+		<span class="publication-doi">DOI: <a href="http://dx.doi.org/{{ .doi }}">{{ .doi }}</a>.</span>
+		<span class="publication-date">Published on {{ dateFormat "January 2, 2006" .publication_date }}.</span><br/>
+		
+		{{ if isset . "full_text" }}
+		<span class="publication-links"><a href="/pdf/{{ .full_text }}.pdf">Full Text PDF</a></span>
+		{{end}}
+		 &nbsp;
+		{{ if isset . "supplemental_materials" }}
+		<span class="publication-links"><a href="/pdf/{{ .supplemental_materials }}.pdf">Supplementary Materials PDF</a></span>
+		{{end}}
+		
+	</div>
+	<br>
+{{ end }}
+<p id="publications-shared-disclaimer">(* Indicates shared authorship)</p>
+
+{{ end }}

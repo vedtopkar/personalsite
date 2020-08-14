@@ -1,0 +1,13 @@
+<div class="aside">
+  <a href="/">
+    <img class="aside-avatar" src="/images/photo_stamp.png" alt="{{ .Site.Params.Name }} avatar">
+  </a>
+  <a class="aside-hamburger" href="#top"></a>
+  <div class="aside-target">
+    <a href="/">
+      <h1 class="aside-title">{{ .Site.Params.Name }}</h1>
+    </a>
+    <p class="aside-description">{{ .Site.Params.Description}}</p>
+    {{ partial "nav.html" . }}
+  </div>
+</div>
