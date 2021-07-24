@@ -1,5 +1,25 @@
+[glia_mrna_transport_review]
+title = "mRNA Transport and Local Translation in Glia"
+authors = "Lindsey Madsen Meservey, <b>Ved V.Topkar</b>, Meng-meng Fu"
+publication_date = "2021-04-08"
+journal = "Trends in Cell Biology"
+citation = ""
+link = "https://www.sciencedirect.com/science/article/pii/S0962892421000520"
+doi = "10.1016/j.tcb.2021.03.006"
+full_text = "glia_mrna_transport_review"
+
+[mrna_vaccine_stability]
+title = "Combinatorial optimization of mRNA structure, stability, and translation for RNA-based therapeutics"
+authors = "Kathrin Leppek, Gun Woo Byeon, Wipapat Kladwang, Hannah K. Wayment-Steele, Craig H. Kerr, Adele F. Xu, Do Soon Kim, <b>Ved V. Topkar</b>, Christian Choe, Daphna Rothschild, Gerald C. Tiu, Roger Wellington-Oguri, Kotaro Fujii, Eesha Sharma, Andrew M. Watkins, John J. Nicol, Jonathan Romano, Bojan Tunguz, Eterna Participants, Maria Barna, Rhiju Das"
+publication_date = "2021-03-30"
+journal = "bioRxiv"
+citation = ""
+link = "https://www.biorxiv.org/content/10.1101/2021.03.29.437587v1.abstract"
+doi = "10.1101/2021.03.29.437587"
+full_text = "mrna_vaccine_stability"
+
 [anomalous_polyA]
-title = "Anomalous reverse transcription through chemical modifications in polyadenosine stretches."
+title = "Anomalous reverse transcription through chemical modifications in polyadenosine stretches"
 authors = "Wipapat Kladwang, <b>Ved V Topkar</b>, Bei Liu, Tracy L Hodges, Sarah C Keane, Hashim Al-Hashimi, Rhiju Das"
 publication_date = "2020-05-14"
 journal = "Journal of the American Chemical Society"
@@ -10,7 +30,7 @@ full_text = "anomalous_polyA"
 supplemental_materials = "anomalous_polyA_supplemental"
 
 [ribosolve]
-title = "Accelerated cryo-EM-guided determination of three-dimensional RNA-only structures."
+title = "Accelerated cryo-EM-guided determination of three-dimensional RNA-only structures"
 authors = "Kalli Kappel, Kaiming Zhang, Zhaoming Su, Wipapat Kladwang, Shanshan Li, Grigore Pintilie, <b>Ved V Topkar</b>, Ramya Rangan, Ivan N Zheludev, Andrew M Watkins, Joseph D Yesselman, Wah Chiu, Rhiju Das"
 publication_date = "2020-07-02"
 journal = "Nature Methods"
@@ -21,7 +41,7 @@ full_text = "ribosolve"
 supplemental_materials = "ribosolve_supplementary"
 
 [epigenetic-redundancy]
-title = "Transcription factors, coregulators, and epigenetic marks are linearly correlated and highly redundant."
+title = "Transcription factors, coregulators, and epigenetic marks are linearly correlated and highly redundant"
 authors = "Tobias Ahsendorf, Franz-Josef Müller, <b>Ved Topkar</b>, Jeremy Gunawardena, Roland Eils"
 publication_date = "2017-12-07"
 journal = "PLoS ONE"
