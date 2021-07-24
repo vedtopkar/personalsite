@@ -4,7 +4,7 @@ draft: false
 type: "single"
 ---
 
-I'm Ved Topkar, a fourth year MD/PhD student at Stanford Medical School interested in RNA biology, entrepreneurship, and computer science education.
+I'm Ved Topkar, a fifth year MD/PhD student at Stanford Medical School interested in RNA biology, entrepreneurship, and computer science education.
 
 Currently, I work as a Biophysics PhD student in the Das Lab. A summary of my current and previous research experiences can be found at the research and publications pages.
 
