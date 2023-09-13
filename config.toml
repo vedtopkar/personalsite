@@ -5,7 +5,7 @@ title = "My New Hugo Site"
 [params]
   homeText = "You just made a Hugo blog from scratch."
   Name = "Ved Topkar"
-  Description = "MD/PhD student, technology enthusiast"
+  Description = "MD/PhD student and OB/GYN applicant"
   
 [menu]
   [[menu.main]]
