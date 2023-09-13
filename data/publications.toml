@@ -1,12 +1,13 @@
 [riboTv3]
 title = "Three-dimensional structure-guided evolution of a ribosome with tethered subunits"
-authors = "Do Soon Kim, Andrew Watkins, Erik Bidstrup, Joongoo Lee, Ved V. Topkar, Camila Kofman, Kevin J. Schwarz, Yan Liu, Grigore Pintilie, Emily Roney, Rhiju Das, Michael C. Jewett"
+authors = "Do Soon Kim, Andrew Watkins, Erik Bidstrup, Joongoo Lee, <b>Ved V. Topkar</b>, Camila Kofman, Kevin J. Schwarz, Yan Liu, Grigore Pintilie, Emily Roney, Rhiju Das, Michael C. Jewett"
 publication_date = "2022-07-14"
 journal = "Nature Chemical Biology"
 citation = ""
 link = "https://www.nature.com/articles/s41589-022-01064-w"
 doi = "https://doi.org/10.1038/s41589-022-01064-w"
 full_text = "riboTv3"
+supplemental_materials = "riboTv3_supplementary"
 
 [mrna_vaccine_stability]
 title = "Combinatorial optimization of mRNA structure, stability, and translation for RNA-based therapeutics"
@@ -17,6 +18,17 @@ citation = ""
 link = "https://www.nature.com/articles/s41467-022-28776-w"
 doi = "https://doi.org/10.1038/s41467-022-28776-w"
 full_text = "mrna_vaccine_stability"
+supplemental_materials = "mrna_vaccine_stability_supplementary"
+
+[guideseq_protocol]
+title = "Defining genome-wide CRISPR–Cas genome-editing nuclease activity with GUIDE-seq"
+authors = "Nikolay L. Malinin, GaHyun Lee, Cicera R. Lazzarotto, Yichao Li, Zongli Zheng, Nhu T. Nguyen, Matthew Liebers, <b>Ved V. Topkar</b>, A. John Iafrate, Long P. Le, Martin J. Aryee, J. Keith Joung & Shengdar Q. Tsai"
+publication_date = "2021-11-12"
+journal = "Nature Protocols"
+citation = ""
+link = "https://www.nature.com/articles/s41596-021-00626-x"
+doi = "https://doi.org/10.1038/s41596-021-00626-x"
+full_text = "guideseq_protocol"
 
 [glia_mrna_transport_review]
 title = "mRNA Transport and Local Translation in Glia"

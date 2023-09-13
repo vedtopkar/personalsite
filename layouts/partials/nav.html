@@ -4,7 +4,7 @@
   			{{ $currentPage := . }}
     		{{ range .Site.Menus.main }}
 		  	{{ $text := .Name | safeHTML }}
-		  	<li class="nav-item {{ if eq $currentPage.URL .URL }}active{{ end }}"><a href="{{ .URL }}">{{ $text }}</a></li>
+		  	<li class="nav-item {{ if eq $currentPage . }}active{{ end }}"><a href="{{ .URL }}">{{ $text }}</a></li>
 		  {{ end }}
   	  </ul>
   </nav>

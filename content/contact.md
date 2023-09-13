@@ -5,6 +5,5 @@ draft: false
 ---
 
 - Email me at vedtopkar@gmail.com
-- Tweet @vedtopkar
-- See my open source code on GitHub
-- See my professional profile on LinkedIn
+- Tweet [@vedtopkar](https://twitter.com/vedtopkar)
+- Code [GitHub](https://github.com/vedtopkar)
