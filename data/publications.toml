@@ -1,3 +1,23 @@
+[riboTv3]
+title = "Three-dimensional structure-guided evolution of a ribosome with tethered subunits"
+authors = "Do Soon Kim, Andrew Watkins, Erik Bidstrup, Joongoo Lee, Ved V. Topkar, Camila Kofman, Kevin J. Schwarz, Yan Liu, Grigore Pintilie, Emily Roney, Rhiju Das, Michael C. Jewett"
+publication_date = "2022-07-14"
+journal = "Nature Chemical Biology"
+citation = ""
+link = "https://www.nature.com/articles/s41589-022-01064-w"
+doi = "https://doi.org/10.1038/s41589-022-01064-w"
+full_text = "riboTv3"
+
+[mrna_vaccine_stability]
+title = "Combinatorial optimization of mRNA structure, stability, and translation for RNA-based therapeutics"
+authors = "Kathrin Leppek, Gun Woo Byeon, Wipapat Kladwang, Hannah K. Wayment-Steele, Craig H. Kerr, Adele F. Xu, Do Soon Kim, <b>Ved V. Topkar</b>, Christian Choe, Daphna Rothschild, Gerald C. Tiu, Roger Wellington-Oguri, Kotaro Fujii, Eesha Sharma, Andrew M. Watkins, John J. Nicol, Jonathan Romano, Bojan Tunguz, Eterna Participants, Maria Barna, Rhiju Das"
+publication_date = "2022-03-22"
+journal = "Nature Communications"
+citation = ""
+link = "https://www.nature.com/articles/s41467-022-28776-w"
+doi = "https://doi.org/10.1038/s41467-022-28776-w"
+full_text = "mrna_vaccine_stability"
+
 [glia_mrna_transport_review]
 title = "mRNA Transport and Local Translation in Glia"
 authors = "Lindsey Madsen Meservey, <b>Ved V.Topkar</b>, Meng-meng Fu"
@@ -7,16 +27,6 @@ citation = ""
 link = "https://www.sciencedirect.com/science/article/pii/S0962892421000520"
 doi = "10.1016/j.tcb.2021.03.006"
 full_text = "glia_mrna_transport_review"
-
-[mrna_vaccine_stability]
-title = "Combinatorial optimization of mRNA structure, stability, and translation for RNA-based therapeutics"
-authors = "Kathrin Leppek, Gun Woo Byeon, Wipapat Kladwang, Hannah K. Wayment-Steele, Craig H. Kerr, Adele F. Xu, Do Soon Kim, <b>Ved V. Topkar</b>, Christian Choe, Daphna Rothschild, Gerald C. Tiu, Roger Wellington-Oguri, Kotaro Fujii, Eesha Sharma, Andrew M. Watkins, John J. Nicol, Jonathan Romano, Bojan Tunguz, Eterna Participants, Maria Barna, Rhiju Das"
-publication_date = "2021-03-30"
-journal = "bioRxiv"
-citation = ""
-link = "https://www.biorxiv.org/content/10.1101/2021.03.29.437587v1.abstract"
-doi = "10.1101/2021.03.29.437587"
-full_text = "mrna_vaccine_stability"
 
 [anomalous_polyA]
 title = "Anomalous reverse transcription through chemical modifications in polyadenosine stretches"

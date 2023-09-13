@@ -7,7 +7,9 @@ draft: false
 
 ## Current Research
 
-I currently work in the Das Lab studying the structure of viral and eukaryotic RNA molecules.
+I currently work in the Das Lab studying the structure of viral and eukaryotic RNA molecules. After developing biochemical methods for characterizing RNA structures *in vitro* and *in cellulo*, I briefly worked on methods to characterize and improve the stability of mRNA vaccines during the COVID-19 pandemic.
+
+My thesis focuses on understanding sub-cellular localization of mRNA in oligodendrocytes -- the cells responsible for myelination during brain development.
 
 ## Past Research
 
